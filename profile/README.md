@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-This is all about NEOVIM like IDE
+This is all about NEOVIM like IDE.
+
+here will be screenshots and some description soon...
 <!--
 
 **Here are some ideas to get you started:**
