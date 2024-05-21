@@ -5,7 +5,9 @@ This is all about NEOVIM like IDE.
 here will be screenshots and some description soon...
 
 If you want to take a part in the development - WELCOME!
+
 This is just the beginning...
+
 <!--
 
 **Here are some ideas to get you started:**
