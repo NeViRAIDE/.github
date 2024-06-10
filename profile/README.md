@@ -1,4 +1,7 @@
-## Hi there 👋
+
+## ![neviraide_banner](https://github.com/NeViRAIDE/.github/assets/70325462/abafbb02-2f70-4ece-a526-dea9a1b2d143)
+
+Hi there 👋
 
 This is all about NEOVIM like IDE.
 
